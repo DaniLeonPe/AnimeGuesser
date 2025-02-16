@@ -55,13 +55,19 @@ La documentación generada estará disponible en la carpeta docs/ dentro del pro
 ### Scripts
 El archivo package.json contiene los siguientes scripts para facilitar el desarrollo:
 
--dev: Inicia el servidor de desarrollo usando Vite.
--build: Compila la aplicación para producción.
-preview: Inicia el servidor para ver la versión de producción.
--lint: Ejecuta ESLint para verificar el estilo y calidad del código.
--docs: Genera la documentación de los componentes Vue con VueDocGen.
--newGame: Inicia un nuevo juego de adivinanza de anime.
--checkAnswer: Verifica la respuesta del usuario.
+-**dev**: Inicia el servidor de desarrollo usando Vite.
+
+-**build**: Compila la aplicación para producción.
+
+-**preview**: Inicia el servidor para ver la versión de producción.
+
+-**lint**: Ejecuta ESLint para verificar el estilo y calidad del código.
+
+-**docs**: Genera la documentación de los componentes Vue con VueDocGen.
+
+-**newGame**: Inicia un nuevo juego de adivinanza de anime.
+
+-**checkAnswer**: Verifica la respuesta del usuario.
 
 ## creacion de ejecutable
 
