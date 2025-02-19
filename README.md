@@ -45,8 +45,7 @@ Para ejecutar esta aplicación en tu máquina local, sigue los pasos a continuac
     npm run dev
     ```
 
-Esto abrirá la aplicación en http://localhost:3000 o la dirección que se te indique en la consola.
-
+Esto abrirá la aplicación en http://localhost:3000
 
 
 ## Documentación Generada
