@@ -1,5 +1,9 @@
 # AnimeGuesser
 
+<img src="./caratula.png">
+
+
+
 AnimeGuesser es una aplicación interactiva de adivinanza de anime, donde los usuarios intentan adivinar el nombre de un anime a partir de una imagen y una pista. La aplicación se conecta a una API de anime para obtener información aleatoria de animes y verifica las respuestas del usuario, mostrando mensajes de éxito o error.
 
 ## Características
